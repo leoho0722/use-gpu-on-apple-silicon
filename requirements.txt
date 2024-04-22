@@ -1,7 +1,0 @@
-# For Tensorflow with Metal support
-tensorflow 
-tensorflow-metal
-
-# For Pytorch with Metal support
-torch
-torchvision
